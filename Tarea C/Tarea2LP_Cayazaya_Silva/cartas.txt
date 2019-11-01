@@ -1,0 +1,189 @@
+94
+4
+0 1 1 432 Aedo
+1
+Lucio 6 0 B
+1
+Paz 6 0 C
+1
+Joaquin 6 0 D
+1
+Mauricio 6 0 E
+1
+Matias 6 0 F
+1
+Rodrigo 6 0 G
+1
+Francisco 6 1 A
+1
+Andrea 6 1 B
+1
+Almendra 6 1 C
+1
+Clemente 6 1 D
+1
+Axel 6 1 E
+1
+Fabio 6 1 F
+1
+Sebastian 6 1 G
+1
+Tiare 4 1 G
+2
+30 LuisAA
+2
+30 LucioAB
+2
+30 MariaAC
+2
+30 JoaquinBA
+2
+30 MauricioBB
+2
+30 FabioBC
+2
+30 CamiloCA
+2
+30 TiareCB
+2
+30 DanteCC
+2
+31 HarryAA
+2
+31 PotterAB
+2
+31 VoldemortAC
+2
+31 KyomaBA
+2
+31 NarutoBB
+2
+31 LeninBC
+2
+31 AdolfCA
+2
+31 DonalCB
+2
+31 MickeyCC
+2
+61 JesusAA
+3
+A0 Luis 0
+3
+B1 LuisRojo 0
+3
+C2 LuisAzul 0
+3
+D3 LuisAmarillo 0
+3
+0A LuisPlateado 0
+3
+1B LuisDorado 0
+3
+2C LuisLegendario 0
+3
+3D LuisDestructorDeMundos 0
+3
+A0 LuisNegro 1
+4
+0 2 3 1 1 1 Ayuda
+4
+1 1 2 1 2 Tu
+4
+1 6 4 4 3 2 1 Seba
+4
+0 6 1 42 Cami
+4
+0 1 1 432 Aedo
+1
+Lucio 6 0 B
+1
+Paz 6 0 C
+1
+Joaquin 6 0 D
+1
+Mauricio 6 0 E
+1
+Matias 6 0 F
+1
+Rodrigo 6 0 G
+1
+Francisco 6 1 A
+1
+Andrea 6 1 B
+1
+Almendra 6 1 C
+1
+Clemente 6 1 D
+1
+Axel 6 1 E
+1
+Fabio 6 1 F
+1
+Sebastian 6 1 G
+1
+Tiare 4 1 G
+2
+30 LuisAA
+2
+30 LucioAB
+2
+30 MariaAC
+2
+30 JoaquinBA
+2
+30 MauricioBB
+2
+30 FabioBC
+2
+30 CamiloCA
+2
+30 TiareCB
+2
+30 DanteCC
+2
+31 HarryAA
+2
+31 PotterAB
+2
+31 VoldemortAC
+2
+31 KyomaBA
+2
+31 NarutoBB
+2
+31 LeninBC
+2
+31 AdolfCA
+2
+31 DonalCB
+2
+31 MickeyCC
+2
+61 JesusAA
+3
+A0 Luis 0
+3
+B1 LuisRojo 0
+3
+C2 LuisAzul 0
+3
+D3 LuisAmarillo 0
+3
+0A LuisPlateado 0
+3
+1B LuisDorado 0
+3
+2C LuisLegendario 0
+3
+3D LuisDestructorDeMundos 0
+3
+A0 LuisNegro 1
+4
+0 2 3 1 1 1 Ayuda
+4
+1 1 2 1 2 Tu
+4
+1 6 4 4 3 2 1 Seba
+4
+0 6 1 42 Cami
