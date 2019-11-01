@@ -1,8 +1,15 @@
-Matias Silva 201773531-7
+
+2019-1
 Rodrigo Cayazaya 201773538-4
+Matias Silva 201773531-7
 
-INSTRUCCIONES:
-
-	EN EL EJERCICIO NUMERO 8 SE DEBE CORRER DE LA SIGUIENTE MANERA:
+Instrucciones:
+	En el ejercicio numero 8 se debe correr de la siguiente manera:
 	(oruga '(LETRA '(LISTA)))
-	DEBIDO A QUE FUE DESARROLLADO ANTES DE QUE SE DIJERA QUE SOLO DEBIA TENER ' AL PRINCIPIO
+	
+-----------------------------------------------------------------
+
+La tarea consistía en el desarrollo de 10 distintas funciones.
+
+Los requerimientos de esta tarea se encuentran en 
+Tarea_4__Scheme.pdf

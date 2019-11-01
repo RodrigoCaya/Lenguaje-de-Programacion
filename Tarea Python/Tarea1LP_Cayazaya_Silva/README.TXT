@@ -1,3 +1,5 @@
+
+2019-1
 Rodrigo Cayazaya 201773538-4
 Matias Silva 201773531-7
 
@@ -8,5 +10,12 @@ Instrucciones:
 
 Otros:
 	
-	El codigo acepta cosas como SUM           1           TO                  1 (pensamos que es una sintaxis correcta)
-	El codigo no acepta caracteres especiales o palabras claves, como esta definido en la tarea
+	El codigo acepta cosas como SUM           1           TO                  1 (pensamos que es una sintaxis correcta).
+	El codigo no acepta caracteres especiales o palabras claves, como esta definido en la tarea.
+
+-----------------------------------------------------------------
+
+La tarea consistía en la utilización Expresiones Regulares.
+
+Los requerimientos de esta tarea se encuentran en 
+Tarea_1__Python.pdf
